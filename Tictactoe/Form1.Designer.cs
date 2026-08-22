@@ -35,7 +35,7 @@
             this.b5 = new System.Windows.Forms.Button();
             this.b6 = new System.Windows.Forms.Button();
             this.b7 = new System.Windows.Forms.Button();
-            this.button8 = new System.Windows.Forms.Button();
+            this.b8 = new System.Windows.Forms.Button();
             this.b9 = new System.Windows.Forms.Button();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
@@ -141,19 +141,19 @@
             this.b7.Text = "Y";
             this.b7.UseVisualStyleBackColor = true;
             // 
-            // button8
+            // b8
             // 
-            this.button8.BackColor = System.Drawing.Color.MediumOrchid;
-            this.button8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button8.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button8.ForeColor = System.Drawing.Color.White;
-            this.button8.Location = new System.Drawing.Point(189, 372);
-            this.button8.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.button8.Name = "button8";
-            this.button8.Size = new System.Drawing.Size(98, 100);
-            this.button8.TabIndex = 7;
-            this.button8.Text = "Y";
-            this.button8.UseVisualStyleBackColor = true;
+            this.b8.BackColor = System.Drawing.Color.MediumOrchid;
+            this.b8.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.b8.Font = new System.Drawing.Font("Microsoft Sans Serif", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.b8.ForeColor = System.Drawing.Color.White;
+            this.b8.Location = new System.Drawing.Point(189, 372);
+            this.b8.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.b8.Name = "b8";
+            this.b8.Size = new System.Drawing.Size(98, 100);
+            this.b8.TabIndex = 7;
+            this.b8.Text = "Y";
+            this.b8.UseVisualStyleBackColor = true;
             // 
             // b9
             // 
@@ -224,7 +224,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.b7);
-            this.Controls.Add(this.button8);
+            this.Controls.Add(this.b8);
             this.Controls.Add(this.b9);
             this.Controls.Add(this.b4);
             this.Controls.Add(this.b5);
@@ -249,7 +249,7 @@
         private System.Windows.Forms.Button b5;
         private System.Windows.Forms.Button b6;
         private System.Windows.Forms.Button b7;
-        private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button b8;
         private System.Windows.Forms.Button b9;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
